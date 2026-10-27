@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\helen\\Documents\\Personal Projects\\Github\\Desktop\\SQLQueryBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62C822DC-423E-4A5F-A9C8-2472787159DF}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\helen\\documents\\personal projects\\github\\desktop\\sqlquerybuilder\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C822DC-423E-4A5F-A9C8-2472787159DF}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1AE0A07-EB37-48E4-99AB-1F46830ACAC2}|QueryBuilderLib\\QueryBuilderLib.csproj|c:\\users\\helen\\documents\\personal projects\\github\\desktop\\sqlquerybuilder\\querybuilderlib\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1AE0A07-EB37-48E4-99AB-1F46830ACAC2}|QueryBuilderLib\\QueryBuilderLib.csproj|solutionrelative:querybuilderlib\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\helen\\Documents\\Personal Projects\\Github\\Desktop\\SQLQueryBuilder\\QueryBuilderLib\\Library.cs",
+              "RelativeDocumentMoniker": "QueryBuilderLib\\Library.cs",
+              "ToolTip": "C:\\Users\\helen\\Documents\\Personal Projects\\Github\\Desktop\\SQLQueryBuilder\\QueryBuilderLib\\Library.cs",
+              "RelativeToolTip": "QueryBuilderLib\\Library.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADgv1sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:49:17.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\helen\\Documents\\Personal Projects\\Github\\Desktop\\SQLQueryBuilder\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\helen\\Documents\\Personal Projects\\Github\\Desktop\\SQLQueryBuilder\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T12:48:15.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\bin\Debug\net10.0\QueryBuilderLib.deps.json
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\bin\Debug\net10.0\QueryBuilderLib.dll
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\bin\Debug\net10.0\QueryBuilderLib.pdb
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\obj\Debug\net10.0\QueryBuilderLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\obj\Debug\net10.0\QueryBuilderLib.AssemblyInfoInputs.cache
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\obj\Debug\net10.0\QueryBuilderLib.AssemblyInfo.cs
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\obj\Debug\net10.0\QueryBuilderLib.csproj.CoreCompileInputs.cache
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\obj\Debug\net10.0\QueryBuilderLib.dll
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\obj\Debug\net10.0\refint\QueryBuilderLib.dll
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\obj\Debug\net10.0\QueryBuilderLib.pdb
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\obj\Debug\net10.0\ref\QueryBuilderLib.dll
+C:\Users\helen\Documents\Personal Projects\Github\Desktop\SQLQueryBuilder\QueryBuilderLib\obj\Debug\net10.0\QueryBui.273BFEB4.Up2Date
